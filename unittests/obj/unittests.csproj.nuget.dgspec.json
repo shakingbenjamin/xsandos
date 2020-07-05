@@ -1,0 +1,130 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/benjamintraves/Documents/dev/core/XsAndOs/unittests/unittests.csproj": {}
+  },
+  "projects": {
+    "/Users/benjamintraves/Documents/dev/core/XsAndOs/console/console.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/benjamintraves/Documents/dev/core/XsAndOs/console/console.csproj",
+        "projectName": "console",
+        "projectPath": "/Users/benjamintraves/Documents/dev/core/XsAndOs/console/console.csproj",
+        "packagesPath": "/Users/benjamintraves/.nuget/packages/",
+        "outputPath": "/Users/benjamintraves/Documents/dev/core/XsAndOs/console/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/benjamintraves/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.103/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/benjamintraves/Documents/dev/core/XsAndOs/unittests/unittests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/benjamintraves/Documents/dev/core/XsAndOs/unittests/unittests.csproj",
+        "projectName": "unittests",
+        "projectPath": "/Users/benjamintraves/Documents/dev/core/XsAndOs/unittests/unittests.csproj",
+        "packagesPath": "/Users/benjamintraves/.nuget/packages/",
+        "outputPath": "/Users/benjamintraves/Documents/dev/core/XsAndOs/unittests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/benjamintraves/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "/Users/benjamintraves/Documents/dev/core/XsAndOs/console/console.csproj": {
+                "projectPath": "/Users/benjamintraves/Documents/dev/core/XsAndOs/console/console.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.2.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.103/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+/Users/benjamintraves/Documents/dev/core/XsAndOs/console/bin/Debug/netcoreapp3.0/console.deps.json
+/Users/benjamintraves/Documents/dev/core/XsAndOs/console/bin/Debug/netcoreapp3.0/console.runtimeconfig.json
+/Users/benjamintraves/Documents/dev/core/XsAndOs/console/bin/Debug/netcoreapp3.0/console.runtimeconfig.dev.json
+/Users/benjamintraves/Documents/dev/core/XsAndOs/console/bin/Debug/netcoreapp3.0/console.dll
+/Users/benjamintraves/Documents/dev/core/XsAndOs/console/bin/Debug/netcoreapp3.0/console.pdb
+/Users/benjamintraves/Documents/dev/core/XsAndOs/console/obj/Debug/netcoreapp3.0/console.csprojAssemblyReference.cache
+/Users/benjamintraves/Documents/dev/core/XsAndOs/console/obj/Debug/netcoreapp3.0/console.AssemblyInfoInputs.cache
+/Users/benjamintraves/Documents/dev/core/XsAndOs/console/obj/Debug/netcoreapp3.0/console.AssemblyInfo.cs
+/Users/benjamintraves/Documents/dev/core/XsAndOs/console/obj/Debug/netcoreapp3.0/console.dll
+/Users/benjamintraves/Documents/dev/core/XsAndOs/console/obj/Debug/netcoreapp3.0/console.pdb
